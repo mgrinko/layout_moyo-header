@@ -8,7 +8,7 @@ The page should match the design Pixel Perfect: all the sizes, colors and distan
 ## Requirements:
 
 - [x] reset browser default margins.
-- [ ] use [Roboto font](https://fonts.google.com/specimen/Roboto)
+- [x] use [Roboto font](https://fonts.google.com/specimen/Roboto)
 - [ ] use semantic tags: `<header>`, `<img>`, `<nav>`, `<ul>`, `<li>` and `<a>`
 - [ ] the header should stretch the full page width
 - [ ] the height should be set for nav links (not the header), take it from the design.
